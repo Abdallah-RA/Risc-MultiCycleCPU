@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+Arch=Arch.adf
+[Settings]
+Active=Arch
+[Expand]
+arch=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1

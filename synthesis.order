@@ -1,0 +1,7 @@
+i<>.\src\regFile.v
+i<>.\src\PC.v
+i<>.\src\ALU.v
+i<>.\src\Control_unit.v
+i<>.\src\Ext.v
+i<>.\src\Top.v
+i<>.\src\top_tb.v
